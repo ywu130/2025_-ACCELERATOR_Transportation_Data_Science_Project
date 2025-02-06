@@ -13,6 +13,6 @@ A **poster** summarizing the findings of this project has been created.
 
 ## Files and Structure
 
-- `notebooks/` - Jupyter notebooks containing the data analysis and visualization.
-- `data/` - Processed datasets used in the analysis.
-- `poster.pdf` - The project summary poster.
+- `ACCELERATOR - Transportation Data Science Project (TDSP)-Yuanyuan Wu.ipynb` - Jupyter notebooks containing the data analysis and visualization.
+- `data/` - Processed datasets used in the analysis. Data can be accessed via this link: https://drive.google.com/file/d/1oiHazCAc1FUkZSqAmLJcSV0C6E94Nda9/view?usp=sharing
+- `YuanyuanWu_TDSC_Project_poster` - The project summary poster.
